@@ -131,7 +131,7 @@ USA
                 <token postag='VAN'><exception regexp='yes'>(([ஃ-ஹ][ா-்]?)+)[ா-்]</exception></token>
                 <token regexp='yes'>க[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும்.<suggestion>\1க் \2</suggestion> என்பதே சரி.</message>
+            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும். <suggestion>\1க் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>அவர் ஒரு புதினத்தை என்னிடம் <marker>படிக்க கொடுத்தார்</marker>.</example>
@@ -142,7 +142,7 @@ USA
                 <token postag='VAN'><exception regexp='yes'>(([ஃ-ஹ][ா-்]?)+)[ா-்]</exception></token>
                 <token regexp='yes'>ச[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும்.<suggestion>\1ச் \2</suggestion> என்பதே சரி.</message>
+            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும். <suggestion>\1ச் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>அவர் அக்காரியத்தை உடனே <marker>செய்ய சொன்னார்</marker>.</example>
@@ -153,7 +153,7 @@ USA
                 <token postag='VAN'><exception regexp='yes'>(([ஃ-ஹ][ா-்]?)+)[ா-்]</exception></token>
                 <token regexp='yes'>த[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும்.<suggestion>\1த் \2</suggestion> என்பதே சரி.</message>
+            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும். <suggestion>\1த் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>அச்செய்தியைக் கேட்ட அவள் உடனே <marker>அழ தொடங்கினாள்</marker>.</example>
@@ -164,7 +164,7 @@ USA
                 <token postag='VAN'><exception regexp='yes'>(([ஃ-ஹ][ா-்]?)+)[ா-்]</exception></token>
                 <token regexp='yes'>ப[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும்.<suggestion>\1ப் \2</suggestion> என்பதே சரி.</message>
+            <message>'போக', 'வர', 'படிக்க' போன்ற (செ(ய்)ய' என்னும்) வினையெச்சங்களின் பின் ஒற்று மிகும். <suggestion>\1ப் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>அவனை அவர் எப்படியாவது <marker>பழிவாங்க பார்த்தார்</marker>.</example>
@@ -178,7 +178,7 @@ USA
                 <token regexp='yes'>சரிவர|கூட|மிக|விட|போல</token>
                 <token regexp='yes'>க[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும்.<suggestion>\1க் \2</suggestion> என்பதே சரி.</message>
+            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும். <suggestion>\1க் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>நான் சொல்வதை அவர் <marker>சரிவர கேட்கத்</marker> தயாராக இல்லை.</example>
@@ -189,7 +189,7 @@ USA
                 <token regexp='yes'>சரிவர|கூட|மிக|விட|போல</token>
                 <token regexp='yes'>ச[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும்.<suggestion>\1ச் \2</suggestion> என்பதே சரி.</message>
+            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும். <suggestion>\1ச் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>நான் கேட்ட கேள்விக்கு அவள் <marker>மிக சரியான</marker> பதிலை அளித்தாள்.</example>
@@ -200,18 +200,18 @@ USA
                 <token regexp='yes'>சரிவர|கூட|மிக|விட|போல</token>
                 <token regexp='yes'>த[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும்.<suggestion>\1த் \2</suggestion> என்பதே சரி.</message>
+            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும். <suggestion>\1த் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
-            <example type='incorrect'>அக்கோட்டையில் காணப்படுவது <marker>போல தடித்த</marker> மண் சுவர்கள் இக்கோட்டையில் இல்லை.</example>
-            <example type='correct'>அக்கோட்டையில் காணப்படுவது <marker>போலத் தடித்த</marker> மண் சுவர்கள் இக்கோட்டையில் இல்லை.</example>
+            <example type='incorrect'>அங்கு காணப்படுவது <marker>போல தடித்த</marker> மண் சுவர்கள் இக்கோட்டையில் இல்லை.</example>
+            <example type='correct'>அங்கு காணப்படுவது <marker>போலத் தடித்த</marker> மண் சுவர்கள் இக்கோட்டையில் இல்லை.</example>
         </rule>
         <rule>
             <pattern>
                 <token regexp='yes'>சரிவர|கூட|மிக|விட|போல</token>
                 <token regexp='yes'>ப[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
             </pattern>
-            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும்.<suggestion>\1ப் \2</suggestion> என்பதே சரி.</message>
+            <message>'சரிவர', 'கூட', 'மிக', போன்ற வினையடைகளின் பின்னும் 'விட', 'போல' போன்ற இடைச்சொற்களின் பின்னும் ஒற்று மிகும். <suggestion>\1ப் \2</suggestion> என்பதே சரி.</message>
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'>அவனது சொந்த தாய் <marker>கூட பயந்து</marker> கொண்டு அவனைப் பார்க்க வருவதில்லை.</example>
