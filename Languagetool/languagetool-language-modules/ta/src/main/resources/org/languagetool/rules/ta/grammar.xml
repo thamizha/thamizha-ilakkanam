@@ -250,7 +250,7 @@ USA
             <url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
             <short>அ-வில் முடியும் சொல்பின்</short>
             <example type='incorrect'><marker>தானாக தோன்ற</marker> நீ என்ன கடவுளா?</example>
-            <example type='correct'>தானாகத் தோன்ற</marker> நீ என்ன கடவுளா?</example>
+            <example type='correct'><marker>தானாகத் தோன்ற</marker> நீ என்ன கடவுளா?</example>
         </rule>
         <rule>
             <pattern>
