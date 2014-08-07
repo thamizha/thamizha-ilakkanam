@@ -34,7 +34,7 @@ USA
 			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
 			<token regexp='yes'>க[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1க்\2</suggestion></message>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், ஒற்று மிகும்: <suggestion>\1க்\2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
 		<short>சேர்த்து எழுத வேண்டும்</short>
 		<example type='incorrect'>புது <marker>மா கோலம்</marker> போடு மயிலே.</example>
@@ -45,7 +45,7 @@ USA
 			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
 			<token regexp='yes'>ச[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1ச்\2</suggestion></message>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், ஒற்று மிகும்: <suggestion>\1ச்\2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
 		<short>சேர்த்து எழுத வேண்டும்</short>
 		<example type='incorrect'>ஒலிம்பிக் <marker>தீ சுடர்</marker>.</example>
@@ -56,7 +56,7 @@ USA
 			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
 			<token regexp='yes'>த[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1த்\2</suggestion></message>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், ஒற்று மிகும்: <suggestion>\1த்\2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
 		<short>சேர்த்து எழுத வேண்டும்</short>
 		<example type='incorrect'><marker>தை திங்கள்</marker> மலரட்டும்.</example>
@@ -67,7 +67,7 @@ USA
 			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
 			<token regexp='yes'>ப[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1ப்\2</suggestion></message>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், ஒற்று மிகும்: <suggestion>\1ப்\2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
 		<short>சேர்த்து எழுத வேண்டும்</short>
 		<example type='incorrect'>அவர்கள் <marker>தீ பந்தங்களோடு</marker> வந்தனர்.</example>
@@ -85,7 +85,7 @@ USA
 			<token regexp='yes'>அந்த|இந்த|எந்த</token>
 			<token regexp='yes'>க[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>'அந்த', 'இந்த', 'எந்த' முதலிய பெயரடைகளின் பின்பு ஒற்று மிகும்: <suggestion>\1க் \2</suggestion></message>
+		<message>'அந்த', 'இந்த', 'எந்த' பின்பு ஒற்று மிகும்: <suggestion>\1க் \2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
 		<short>ஒற்றுப் பிழை</short>
 		<example type='incorrect'>அவர் <marker>அந்த காலத்து</marker> மனிதர்.</example>
@@ -96,7 +96,7 @@ USA
 			<token regexp='yes'>அந்த|இந்த|எந்த</token>
 			<token regexp='yes'>ச[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>'அந்த', 'இந்த', 'எந்த' முதலிய பெயரடைகளின் பின்பு ஒற்று மிகும்: <suggestion>\1ச் \2</suggestion></message>
+		<message>'அந்த', 'இந்த', 'எந்த' பின்பு ஒற்று மிகும்: <suggestion>\1ச் \2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
 		<short>ஒற்றுப் பிழை</short>
 		<example type='incorrect'>அவர் <marker>அந்த சாலையைக்</marker> கடப்பதற்குப் பெரும்பாடு பட்டார்.</example>
@@ -107,7 +107,7 @@ USA
 			<token regexp='yes'>அந்த|இந்த|எந்த</token>
 			<token regexp='yes'>த[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>'அந்த', 'இந்த', 'எந்த' முதலிய பெயரடைகளின் பின்பு ஒற்று மிகும்: <suggestion>\1த் \2</suggestion></message>
+		<message>'அந்த', 'இந்த', 'எந்த' பின்பு ஒற்று மிகும்: <suggestion>\1த் \2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
 		<short>ஒற்றுப் பிழை</short>
 		<example type='incorrect'><marker>இந்த தேர்தலில்</marker> காங்கிரஸ் படுதோல்வி அடையும்.</example>
@@ -118,7 +118,7 @@ USA
 			<token regexp='yes'>அந்த|இந்த|எந்த</token>
 			<token regexp='yes'>ப[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
 		</pattern>
-		<message>'அந்த', 'இந்த', 'எந்த' முதலிய பெயரடைகளின் பின்பு ஒற்று மிகும்: <suggestion>\1ப் \2</suggestion></message>
+		<message>'அந்த', 'இந்த', 'எந்த' பின்பு ஒற்று மிகும்: <suggestion>\1ப் \2</suggestion></message>
 		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=77#head</url>
 		<short>ஒற்றுப் பிழை</short>
 		<example type='incorrect'><marker>எந்த பக்கம்</marker> பார்த்தாலும் ஒரே மக்கள் கூட்டம்.</example>
@@ -578,6 +578,57 @@ USA
             <example type='correct'>ஜெயலலிதா <marker>யானைகளுக்குப் பெயர்</marker> சூட்டி மகிழ்ந்தார்.</example>
         </rule>
     </rulegroup>
+	
+    <!-- ====================================================================== -->
+    <!-- இலக்கணச் சிக்கல்கள் -->
+    <!-- ====================================================================== -->
+    <category name="ஒருமையும் பன்மையும்">
+    <rulegroup id="tense" name="பறந்தன">
+	  <rule>
+		<pattern>
+			<token skip="1">பறவைகள்</token>
+			<token>பறந்தது</token>
+		</pattern>
+		<message>ஒருமை பன்மை வேறுபாடு: <suggestion><match no="2" regexp_match=".*து" regexp_replace=".*ன"/></suggestion></message>
+		<short>பன்மைக்குப் பன்மை</short>
+		<example type='incorrect'>அந்தப் <marker>பறவைகள் விண்ணை நோக்கிப் பறந்தது</marker>.</example>
+		<example type='correct'>அந்தப் <marker>பறவைகள் விண்ணை நோக்கிப் பறந்தன</marker>.</example>
+	  </rule>
+<!--	  <rule>
+		<pattern>
+			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
+			<token regexp='yes'>ச[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
+		</pattern>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1ச்\2</suggestion></message>
+		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
+		<short>சேர்த்து எழுத வேண்டும்</short>
+		<example type='incorrect'>ஒலிம்பிக் <marker>தீ சுடர்</marker>.</example>
+		<example type='correct'>ஒலிம்பிக் <marker>தீச்சுடர்</marker>.</example>
+	  </rule>
+	  <rule>
+		<pattern>
+			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
+			<token regexp='yes'>த[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
+		</pattern>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1த்\2</suggestion></message>
+		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
+		<short>சேர்த்து எழுத வேண்டும்</short>
+		<example type='incorrect'><marker>தை திங்கள்</marker> மலரட்டும்.</example>
+		<example type='correct'><marker>தைத்திங்கள்</marker> மலரட்டும்.</example>
+	  </rule>
+	  <rule>
+		<pattern>
+			<token regexp='yes'>[அஈஒக-வ][ாீூேைோ]?</token>
+			<token regexp='yes'>ப[ா-ௌ]?(([க-ஹ][ா-்]?)+)?</token>
+		</pattern>
+		<message>ஓரெழுத்துப் பெயர்ச்சொல்லின் பின் வல்லெழுத்து வந்தால், வல்லெழுத்து மிகும்: <suggestion>\1ப்\2</suggestion></message>
+		<url>http://www.tamilvu.org/slet/lA100/lA100pd3.jsp?bookid=169&amp;pno=36#head1</url>
+		<short>சேர்த்து எழுத வேண்டும்</short>
+		<example type='incorrect'>அவர்கள் <marker>தீ பந்தங்களோடு</marker> வந்தனர்.</example>
+		<example type='correct'>அவர்கள் <marker>தீப்பந்தங்களோடு</marker> வந்தனர்.</example>
+	  </rule> -->
+	</rulegroup>
+    </category>
 	
     </category>
 </rules>
